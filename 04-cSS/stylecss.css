@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.body {
+    background-image: url(./harry-potter-zodiac-signs.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 50rem;
+}
+ul{
+    color: greenyellow;
+}
+.nigar{
+    background-color: green;
+}
