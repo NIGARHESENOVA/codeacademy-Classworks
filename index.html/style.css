@@ -1,0 +1,67 @@
+.elit {
+  font-family: "AR One Sans", sans-serif;
+  color: darkorchid;
+  text-decoration: underline;
+  font-size: large;
+}
+.dolor {
+  font-family: "Ubuntu", sans-serif;
+  color: rgb(98, 173, 22);
+  font-size: larger;
+}
+.fuga{
+    font-family: 'Martian Mono', monospace;
+color: blue;
+font-size: xx-small;
+}
+.amet{font-family: 'Roboto Mono', monospace;
+    color: rgb(146, 187, 76);
+    font-size:  larger;
+
+
+}
+.ipsum{
+    font-family: 'Martian Mono', monospace;
+    color: crimson;
+    font-size: larger;
+}
+.ut{
+    font-family: 'Monoton', cursive;
+    color: forestgreen;
+    font-size: xx-small;
+}
+.illo{
+
+font-family: 'Roboto Mono', monospace;
+color: fuchsia;
+font-size: larger;
+}
+.lorem{font-family: 'Ubuntu', sans-serif;
+color: gold;
+font-size: larger;
+
+}
+.totam{
+    font-family: 'Ubuntu', sans-serif;
+color: dimgray; 
+font-size: xx-small;
+}
+      .consectetura{
+        font-family: 'Monoton', cursive;
+        color: mediumorchid;
+        font-size: small;
+
+      }   
+.ab{
+    font-family: 'Monoton', cursive;
+color: brown;
+font-size: small;
+    
+      
+}
+
+.sit{
+    font-family: 'Monoton', cursive;
+    color: aqua;
+    font-size: small;
+}
