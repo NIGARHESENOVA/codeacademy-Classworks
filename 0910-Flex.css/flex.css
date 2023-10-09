@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+}
+.header{
+    height: 30vh;
+    background-color: #7c0a0a;
+    
+}
+.flex-container{
+    height: 50vp;
+
+    color: #071a81;
+    background-color: #7c0a0a;
+    margin: 0;
+
+}
+.fotter{
+    height: 50vp;
+    width: 30vp;
+    color: rgb(127, 161, 255);
+}
+.boxDiv{
+    gap: 20;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+.box{
+    height: 50vh;
+    width: 40vh;
+    background-color: chocolate;
+
+}
