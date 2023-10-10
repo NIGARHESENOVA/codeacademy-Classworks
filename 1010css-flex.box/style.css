@@ -1,0 +1,27 @@
+.BOX-3 {
+  font-size: larger;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+.box-1 {
+  margin: 20px;
+  width: 20vp;
+  height: 30vp;
+}
+.box4 {
+  font-size: small;
+}
+.color {
+  color: rgb(13, 206, 77);
+  background-color: rgb(39, 212, 91);
+}
+footer {
+  align-self: center;
+  justify-self: center;
+  text-align: center;
+}
+.box{
+    margin: 20px;
+}
