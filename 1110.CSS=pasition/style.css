@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.box{
+    background-image: url(./free-photo-of-raspberry-cheesecake.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+height: 100vh;
+background-repeat: no-repeat;
+
+}
+.div{
+    background-color: black;
+    color: #f1f1f1;
+    column-gap: 50px;
+    
+    display: flex;
+}
+.div-1{
+    background-color: chartreuse;
+    top: 0;
+}
+.div-2{
+    background-color: blue;
+    top: 0;
+
+    
+}
