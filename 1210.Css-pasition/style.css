@@ -63,3 +63,27 @@ body {
     border: 2px slateblue;
     background-color: rgb(134, 91, 175);
 }
+body{
+    height: 300vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 100%;
+    background-color: rgb(228, 219, 167);
+    height: 25vh;
+    position: sticky;
+    top: 0;
+}
+.box-1{
+    width: 100%;
+    background-color: black;
+    color: green;
+    
+}
+.container{
+    height: 300vh;
+}
